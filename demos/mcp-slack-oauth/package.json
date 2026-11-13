@@ -14,7 +14,7 @@
 		"@modelcontextprotocol/server": "2.3.1",
 		"@slack/web-api": "^7.17.0",
 		"agents": "^0.29.0",
-		"hono": "^4.12.27",
+		"hono": "^4.13.16",
 		"just-pick": "^4.2.0",
 		"octokit": "^5.0.5",
 		"zod": "^4.4.3"
