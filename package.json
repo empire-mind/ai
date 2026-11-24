@@ -13,7 +13,7 @@
 		"@changesets/changelog-github": "^0.7.0",
 		"@changesets/cli": "^2.31.0",
 		"@cloudflare/workers-oauth-provider": "^0.8.1",
-		"@modelcontextprotocol/sdk": "1.29.0",
+		"@modelcontextprotocol/sdk": "1.32.0",
 		"@types/node": "^26.0.1",
 		"@types/wait-on": "^5.3.4",
 		"agents": "^0.17.1",
